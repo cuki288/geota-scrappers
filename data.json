@@ -1,0 +1,16 @@
+{
+  "site": "거타",
+  "url": "https://geota.co.kr/",
+  "scraped_at": "2026-02-16T14:40:28.662Z",
+  "statistics": {
+    "date_range": "2026.02.10 ~ 2026.02.16",
+    "cash_transaction_sanctions": {
+      "total_recovered_zhijian": 33781,
+      "total_sanctioned_personnel": 48
+    },
+    "operational_policy_sanctions": {
+      "total_sanctioned_personnel": 431,
+      "highest_sanctioned_server": "청룡"
+    }
+  }
+}
